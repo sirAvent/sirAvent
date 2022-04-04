@@ -1,4 +1,4 @@
-##### Hey! I'm Avent, a Full-Stack Developer and 2nd Year CS Student @ UC Irvine
+#### Hey! I'm Avent, a Full-Stack Developer and 2nd Year CS Student @ UC Irvine
 
 You can catch me creating web-applications or programming for school. I'm very passionate in front-end development, game design, and UI/UX design are areas! I enjoy working out, playing videogames, and boxing.
 
