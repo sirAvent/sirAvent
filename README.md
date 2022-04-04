@@ -1,4 +1,8 @@
-### Hi there 👋
+##### Hey! I'm Avent, a Full-Stack Developer and 2nd Year CS Student @ UC Irvine
+
+You can catch me creating web-applications or programming for school. I'm very passionate in front-end development, game design, and UI/UX design are areas! I enjoy working out, playing videogames, and boxing.
+
+Find me on LinkedIn or view my resume!
 
 <!--
 **sirAvent/sirAvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
