@@ -6,7 +6,7 @@ You can catch me developing web-applications or programming for school. I'm very
 Contact me! I'll gladly answer any questions regarding my projects or myself.
 Find me on [LinkedIn](https://www.linkedin.com/in/avent-chiu/) or view my [resume](https://drive.google.com/file/d/1xRE6qy1n1Z_O5NiQTQ88lJF2EOKJ4dEm/view)!
 
-## [Portfolio Link](https://siravent.github.io/portfolio/)
+## [Portfolio Link](https://siravent.github.io/)
 
 
 <!--
