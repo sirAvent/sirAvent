@@ -4,7 +4,7 @@
 You can catch me developing web-applications or programming for school. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
 
 Contact me! I'll gladly answer any questions regarding my projects or myself.
-Find me on [LinkedIn](https://www.linkedin.com/in/avent-chiu/) or view my [resume](https://drive.google.com/file/d/1VMaBjOcMsdC3jUghvSkJUx8ribEfN62W/view?usp=sharing)!
+Find me on [LinkedIn](https://www.linkedin.com/in/avent-chiu/) or view my [resume](https://siravent.github.io/resume.pdf)!
 
 ## [Portfolio Link](https://siravent.github.io/)
 
