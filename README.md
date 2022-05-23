@@ -1,4 +1,4 @@
-![About Me Banner](https://media-exp1.licdn.com/dms/image/C5616AQGeqBlRPNEGMw/profile-displaybackgroundimage-shrink_350_1400/0/1647489437139?e=1654732800&v=beta&t=yB6VfrfYV28S141X5i-hAvRY6hxKybkm07s5-Mx-5X8)
+![About Me Banner](https://media-exp1.licdn.com/dms/image/C5616AQEknNfmdXzhiw/profile-displaybackgroundimage-shrink_350_1400/0/1652509602371?e=1658966400&v=beta&t=xehJnpxXqqQSTu7x8n9KfHVVgHzuhggHHiKt70pfbhM)
 ### Hey! I'm Avent, a Full-Stack Developer and 2nd Year CS Student @ UC Irvine
 
 You can catch me developing web-applications or programming for school. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
