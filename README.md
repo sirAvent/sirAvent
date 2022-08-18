@@ -18,10 +18,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=siravent&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-You can catch me developing web-applications or programming for school. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
+You can catch me developing web-applications or studying. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
 
-Contact me! I'll gladly answer any questions regarding my projects or myself.
-View my [resume](https://siravent.github.io/resume.pdf)!
+📃 [Resume](https://siravent.github.io/resume.pdf)!
 
 
 
