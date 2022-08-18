@@ -1,11 +1,11 @@
-<h1 align='center'>Hey, I'm Avent</h1>
+<h1>Hey, I'm Avent</h1>
 <p align='center'>
   Full-Stack Developer
   <br></br>
   3rd Year CS Student @ UC Irvine
 </p>
 
-<p align='center'>
+<p>
   <a href="https://www.linkedin.com/in/avent-chiu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -14,8 +14,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=siravent&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 You can catch me developing web-applications or programming for school. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
