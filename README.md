@@ -1,11 +1,11 @@
-<h1>Hey, I'm Avent!</h1>
-<p>
+<h1 align="center">Hey, I'm Avent!</h1>
+<p align="center">
   Full-Stack Developer
   <br></br>
   3rd Year CS Student @ UC Irvine
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/avent-chiu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -14,7 +14,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p>
+<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=siravent&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
