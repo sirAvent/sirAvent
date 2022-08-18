@@ -1,5 +1,5 @@
 <h1>Hey, I'm Avent</h1>
-<p align='center'>
+<p>
   Full-Stack Developer
   <br></br>
   3rd Year CS Student @ UC Irvine
