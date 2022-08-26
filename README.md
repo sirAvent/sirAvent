@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Avent!</h1>
 <p align="center">
-  Full-Stack Developer and 3rd Year CS Student @ UC Irvine
+  Full-Stack Developer a, ZeppOS Developer Advocate and 3rd Year CS Student @ UC Irvine
 </p>
 
 <p align="center">
