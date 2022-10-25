@@ -14,6 +14,8 @@
 
 You can catch me developing web-applications or studying. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
 
+Fun Fact: I was the top 48 Bomb King in Paladins during Beta
+
 📃 [Resume](https://siravent.github.io/resume.pdf)!
 
 
