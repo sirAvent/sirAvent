@@ -1,8 +1,4 @@
 <h1 align="center">Hey, I'm Avent!</h1>
-<!-- <p align="center">
-  ZeppOS Developer Ecosystems Engineer and 3rd Year CS Student @ UC Irvine
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/avent-chiu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,6 +7,11 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+<!-- <p align="center">
+  ZeppOS Developer Ecosystems Engineer and 3rd Year CS Student @ UC Irvine
+</p>
+
+
 
 You can catch me developing web-applications or studying. I'm very passionate in front-end development, game design, and UI/UX design! I enjoy working out, gaming, muay thai, and **COOKING**! 🤤
 
