@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Avent!</h1>
-<p align="center">
+<!-- <p align="center">
   ZeppOS Developer Ecosystems Engineer and 3rd Year CS Student @ UC Irvine
 </p>
 
@@ -20,7 +20,7 @@ Fun Fact: I was the top 48 Bomb King in Paladins during Beta
 
 
 
-<!--
+
 **sirAvent/sirAvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
